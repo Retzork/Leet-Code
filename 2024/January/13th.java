@@ -1,7 +1,6 @@
 class solution {
     public int minSteps(String s, String t) {
         int[] counter = new int[26];
-        int len = s.length();
 
         for (char c : s.toCharArray()){
             counter[c - 'a']++;

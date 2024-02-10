@@ -1,4 +1,4 @@
-class 26th {
+class solution {
     public int findPaths(int m, int n, int maxMove, int startRow, int startColumn) {
         int[][] dp = new int[m+2][n+2];
         int[][] dpCurrent = new int[m+2][n+2];

@@ -1,4 +1,4 @@
-class 5th {
+class solution {
     public int firstUniqChar(String s) {
         // o(n) solution
         // HashMap<Character, Integer> charPositionMap = new HashMap<>();

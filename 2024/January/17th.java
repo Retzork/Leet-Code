@@ -1,4 +1,4 @@
-class 17th {
+class solution {
     public boolean uniqueOccurrences(int[] arr) {
         Map<Integer, Integer> countMap = new HashMap<>();
         for (int element : arr) {

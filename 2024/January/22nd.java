@@ -1,4 +1,4 @@
-class 22nd {
+class solution {
     public int[] findErrorNums(int[] nums) {
         int len = nums.length, missing = 0, dupe = 0;
         int[] arr = new int[len + 1];

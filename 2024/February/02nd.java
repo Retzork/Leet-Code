@@ -1,4 +1,4 @@
-class 2nd {
+class solution {
     public List<Integer> sequentialDigits(int low, int high) {
         List<Integer> numbersList = new ArrayList<>();
         String allDigits = "123456789";

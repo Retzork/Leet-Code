@@ -1,4 +1,4 @@
-class 23rd {
+class solution {
     private int res = 0;
     
     public int maxLength(List<String> arr) {

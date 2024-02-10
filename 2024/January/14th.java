@@ -1,4 +1,4 @@
-class 14th {
+class solution {
     public boolean closeStrings(String word1, String word2) {
         int[] str1 = new int[26], str2 = new int[26];
 

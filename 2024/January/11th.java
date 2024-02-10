@@ -1,4 +1,4 @@
-class 11th {
+class solution {
     public int maxAncestorDiff(TreeNode root) {
         return rec(root, 0, (int) 10e5);
     }

@@ -1,4 +1,4 @@
-class 01st {
+class solution {
     public int[][] divideArray(int[] nums, int k) {
         int len = nums.length;
         int[][] ans = new int[len/3][3];

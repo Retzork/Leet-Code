@@ -1,4 +1,4 @@
-class 31st {
+class solution {
     public int[] dailyTemperatures(int[] temperatures) {
         int len = temperatures.length;
         int[] result = new int[len];

@@ -13,7 +13,7 @@
  *     }
  * }
  */
-class 9th {
+class solution {
     List<Integer> leaf1 = new ArrayList<>();
     List<Integer> leaf2 = new ArrayList<>();
 

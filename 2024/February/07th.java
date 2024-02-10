@@ -1,4 +1,4 @@
-class 7th {
+class solution {
     public String frequencySort(String s) {
         int[] counts = new int[26 * 2 + 10];
         

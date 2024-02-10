@@ -1,4 +1,4 @@
-class 4th {
+class solution {
     public String minWindow(String s, String t) {
         if (s.isEmpty() || t.isEmpty()) {
             return "";

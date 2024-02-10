@@ -1,4 +1,4 @@
-class 15th {
+class solution {
     public List<List<Integer>> findWinners(int[][] matches) {
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> noLose = new ArrayList<>();

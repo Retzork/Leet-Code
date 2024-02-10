@@ -1,4 +1,4 @@
-class 18th {
+class solution {
     public int climbStairs(int n) {
 
         if(n < 2) return 1;

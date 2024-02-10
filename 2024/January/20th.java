@@ -1,4 +1,4 @@
-class 20th {
+class solution {
     public int sumSubarrayMins(int[] arr) {
         int min = 0, len = arr.length;
         if(len == 1) return arr[0];

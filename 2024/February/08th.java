@@ -1,4 +1,4 @@
-class 8th {
+class solution {
     public int numSquares(int n) {
         int[] dp = new int[n + 1];
         Arrays.fill(dp, Integer.MAX_VALUE);

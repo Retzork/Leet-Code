@@ -1,4 +1,4 @@
-class 21st {
+class solution {
     public int rob(int[] nums) {
         int len = nums.length;
         int[] dp = new int[len];

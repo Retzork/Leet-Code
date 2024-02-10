@@ -1,4 +1,4 @@
-class 27th {
+class solution {
     public int kInversePairs(int n, int k) {
         int mod = (int) 1e9 + 7;
         int[] dp = new int[k+1];

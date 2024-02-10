@@ -1,4 +1,4 @@
-class 3rd {
+class solution {
     public int maxSumAfterPartitioning(int[] arr, int k) {
         int n = arr.length;
         int[] dp = new int[n];

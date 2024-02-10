@@ -1,4 +1,4 @@
-class 12th {
+class solution {
     public boolean halvesAreAlike(String s) {
         int mid = s.length() / 2;
 

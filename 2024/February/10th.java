@@ -1,4 +1,4 @@
-class 10th {
+class solution {
     public int countSubstrings(String s) {
         int leng = s.length();
         int ans = 0;

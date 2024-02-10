@@ -1,4 +1,4 @@
-class 30th {
+class solution {
     public int evalRPN(String[] tokens) {
         List<Integer> list = new ArrayList<>();
 
